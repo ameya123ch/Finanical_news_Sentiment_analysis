@@ -18,3 +18,7 @@ The system is expected to achieve high accuracy in financial news sentiment anal
 
 ### Conclusion: 
 The proposed financial news sentiment analysis system using bidirectional LSTM will help investors and financial institutions improve their sentiment analysis models and make more accurate investment decisions. It will be an essential tool for stockbrokers, financial advisors, and other professionals involved in financial markets.
+
+### Deployed Web app
+
+https://huggingface.co/spaces/ameya123ch/Financial_Sentiment_Analysis
