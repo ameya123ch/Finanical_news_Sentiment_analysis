@@ -1,8 +1,7 @@
 # Finanical news Sentiment analysis
 
 
-![91867Screenshot (125)](https://img.etimg.com/thumb/height-450,width-600,imgsize-180242,msid-87946375/.jpg)
-
+![sentiment_gif_v02b](https://user-images.githubusercontent.com/88341388/232018228-e8e76fff-1b4b-4dc8-b7f5-26e6d74b29e2.gif)
 
 ### Background: 
 The financial industry generates vast amounts of news and data every day, which can significantly impact market sentiment and influence financial decisions. It is challenging to analyze and process this information manually, leading to errors and biases. Therefore, it is necessary to use advanced techniques such as natural language processing and deep learning to automate the process of sentiment analysis and accurately predict market trends.
