@@ -1,0 +1,5 @@
+numpy==1.23.5
+streamlit==1.15.1
+tensorflow_cpu==2.8.0
+transformers==4.27.2
+
